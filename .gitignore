@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+build/
+dist/
+*.spec
+*.pth
+*.shp
+*.dbf
+*.shx
+*.prj
+*.kml
+*.kmz
+*.gpkg
+*.geojson
+.env
+.vscode/
+.idea/

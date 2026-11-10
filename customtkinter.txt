@@ -1,0 +1,6 @@
+customtkinter
+opencv-python
+pillow
+shapely
+arabic-reshaper
+python-bidi
